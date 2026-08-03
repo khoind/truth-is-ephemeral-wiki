@@ -2,6 +2,8 @@
 
 A concept-first, self-contained Markdown companion to the Fall 2023 **15-836: Substructural Logics** lecture notes.
 
+**Created by [Hermes Agent](https://hermes-agent.nousresearch.com/) by Nous Research, under the direction of [khoind](https://github.com/khoind).**
+
 **Original CMU source:** [Combined lecture notes (PDF)](https://www.cs.cmu.edu/~fp/courses/15836-f23/misc/sublogics23.pdf) · [Course page](https://www.cs.cmu.edu/~fp/courses/15836-f23/)
 
 Start with [`00 Home.md`](00%20Home.md). The repository contains guides for every supplied lecture plus standalone concept and comparison pages. Pages use portable relative Markdown links and TeX math, and work in Obsidian or other capable Markdown readers.
