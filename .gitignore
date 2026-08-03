@@ -1,0 +1,8 @@
+.DS_Store
+._*
+.obsidian/
+_source/
+dist/
+*.pdf
+*.zip
+__pycache__/
