@@ -2,6 +2,8 @@
 
 A concept-first, self-contained Markdown companion to the Fall 2023 **15-836: Substructural Logics** lecture notes.
 
+**Original CMU source:** [Combined lecture notes (PDF)](https://www.cs.cmu.edu/~fp/courses/15836-f23/misc/sublogics23.pdf) · [Course page](https://www.cs.cmu.edu/~fp/courses/15836-f23/)
+
 Start with [`00 Home.md`](00%20Home.md). The repository contains guides for every supplied lecture plus standalone concept and comparison pages. Pages use portable relative Markdown links and TeX math, and work in Obsidian or other capable Markdown readers.
 
 ## Design standard
@@ -15,4 +17,4 @@ python3 _tools/validate_wiki.py
 ```
 
 ## Rights
-No explicit license was found in the supplied PDF. This repository is an independently worded personal study companion and is kept private. It excludes the source PDF, extracted corpus, assignments, diagrams, and long quotations.
+The lecture notes are freely available from the CMU course page, but no explicit reuse license was found in the PDF. This repository is an independently worded personal study companion and is kept private. It links to, rather than redistributes, the source PDF and excludes the extracted corpus, assignments, diagrams, and long quotations.
