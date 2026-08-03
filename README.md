@@ -17,4 +17,4 @@ python3 _tools/validate_wiki.py
 ```
 
 ## Rights
-The lecture notes are freely available from the CMU course page, but no explicit reuse license was found in the PDF. This repository is an independently worded personal study companion and is kept private. It links to, rather than redistributes, the source PDF and excludes the extracted corpus, assignments, diagrams, and long quotations.
+The lecture notes are freely available from the CMU course page, but no explicit reuse license was found in the PDF. This repository contains independently worded study notes; it links to, rather than redistributes, the source PDF and excludes the extracted corpus, assignments, diagrams, and long quotations. No license in this repository applies to the underlying CMU lecture notes.

@@ -18,7 +18,7 @@ The CMU-hosted PDF is also 248 pages and contains the same 77,302 extracted word
 Each lecture and concept page includes a source trail with lecture, section, printed lecture pages, and/or PDF pages. Cite the original lecture notes for scholarly claims and verify exact theorem/rule wording there.
 
 ## Rights boundary
-The notes are freely downloadable from CMU, but no explicit license or redistribution notice was found in the PDF. Copyright therefore remains reserved by default. This wiki is an independently worded personal study companion. It links to, rather than redistributes, the PDF; extracted text, diagrams, assignments, and long source passages are excluded. Keep the GitHub repository private unless publication rights are established.
+The notes are freely downloadable from CMU, but no explicit license or redistribution notice was found in the PDF. Copyright in the source therefore remains reserved by default. This wiki contains independently worded study notes and does not relicense the source. It links to, rather than redistributes, the PDF; extracted text, diagrams, assignments, and long source passages are excluded.
 
 ## Scope
 The wiki aims for conceptual self-sufficiency but does not pretend to replace every derivation, implementation detail, bibliography entry, or classroom discussion in the lectures. Source-dependent uncertainty is labeled rather than silently repaired.
